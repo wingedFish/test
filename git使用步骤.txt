@@ -1,0 +1,2 @@
+1、创建仓库
+	git@github.com:Afengzi/test.git
